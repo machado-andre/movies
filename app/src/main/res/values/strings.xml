@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Movies</string>
+    <string name="no_results_text">No Results</string>
+    <string name="search_hint">i.e Matrix</string>
+    <string name="search_button_desc">Search Movie</string>
+</resources>
